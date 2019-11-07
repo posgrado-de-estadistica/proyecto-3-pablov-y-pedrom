@@ -1,24 +1,20 @@
 # Geoestadística
 El presente repositorio contiene el proyecto 3 del curso SP-1649, elaborado con datos del Instituto Meteorológico de Costa Rica (IMN).
+Los autores de este proyecto son:
+* Pedro Montenegro Masís ~ [montenegromasis@gmail.com](montenegromasis@gmail.com)
+* Pablo Vivas Corrales ~ [vivascorralespablo@gmal.com](vivascorralespablo@gmail.com)
 
-## Código
+El trabajo escrito se puede encontrar en el siguiente [hipervínculo](https://www.overleaf.com/read/jbtpwdhysyhp) o en el archivo llamado `Trabajo_Escrito.pdf`
 
-Contiene los script .R sobre los procedimientos para extracción de los datos y código de las ténicas.
+La carpeta `PDF` contiene en formato `.pdf` que son los datos crudos que fueron enviados por la oficina de información del Instituto Meteorológico Nacional
 
-## Datos
+La carpeta `codigo` contiene 3 archivos que se explican a continuación:
+* `01_extraccion_pdf`: este archivo contiene el código para la extracción de la información de los pdfs.
+* `02_union_tablas`: Aquí se presenta el código para obtener los datos finales que serán utilizados en el análisis y que se almacenan en la carpeta `Datos`
+* `03_analisis`: Es el más extenso de los 3 y describe detalladamente el análisis que se condujo para el proyecto.
 
-Contiene la información Espacial y datos de IMN compilados.
+En la carpeta `Gráficos` se almacenan las visualizaciones creadas para el proyecto.
 
-## Documentación 
+La carpeta `Documentación` contiene las referencias bibliográficas que se utilizarón como base para consucir el análisis.
 
-Posee las fuentes o referencias consultadas para la elaboración del proyecto.
-
-## Imagenes y Graficos
-
-Tiene en formato png y pdf las figuras del trabajo en desarrollo.
-
-## PDF
-
-Posee la información datos crudos en formato pdf.
-
-
+Además el archivo `Presentación.pptx` es un archivo de power point que será utilizado para la presentación del análisis.
